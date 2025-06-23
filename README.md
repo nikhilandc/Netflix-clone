@@ -5,7 +5,7 @@
 ![Netflix Clone Preview](https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress\&cs=tinysrgb\&w=800)
 
 ---
-## 🔗 [Live Demo (Optional)](https://netflix-clone-ovp116em5-nikhils-projects-9cc96f5f.vercel.app/)
+## 🔗 [Live Demo ](https://netflix-clone-ovp116em5-nikhils-projects-9cc96f5f.vercel.app/)
 
 ## 🚀 Overview
 
